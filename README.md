@@ -1,2 +1,3 @@
-# diving-into-k8s
-Kubernetes concepts
+## Diving into K8s
+
+1. [Why Kubernetes?](./day-1.md)
