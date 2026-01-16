@@ -96,7 +96,7 @@ Networking
 
 ### Scheduler
 - It is responsible for scheduling the pods or other resources on k8s.
-- Scheduler takes actions on the decides tasks by the API server.
+- Scheduler takes actions on the decided tasks by the API server.
 
 ### Etcd - The key value store
 - Etcd is the component which is responsible for taking backups.
