@@ -1,3 +1,4 @@
 ## Diving into K8s
 
-1. [Why Kubernetes?](./day-1.md)
+- [Why Kubernetes?](./day-1.md)
+- [Kubernetes Architecture](./day-2.md)
