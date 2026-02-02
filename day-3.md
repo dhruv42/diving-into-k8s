@@ -16,7 +16,7 @@
 
 ---
 
-### Demo - Running a cluster & Pod on local, [sample yaml](pod.yaml)
+### Demo - Running a cluster & Pod on local, [sample yaml](./samples/pod.yaml)
 
 **Installation needed:**
 - Install kubectl

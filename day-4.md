@@ -11,7 +11,7 @@
 *controllers make sure that the desired and actual state of the cluster are same*
 
 
-### Demo - Creating a deployment on local, [sample yaml](deployment.yaml)
+### Demo - Creating a deployment on local, [sample yaml](./samples/deployment.yaml)
 
 Create the deployment
 ```
