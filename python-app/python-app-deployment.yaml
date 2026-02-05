@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: python-app
+        image: dhrumilpopat/python-app:latest
         ports:
         - containerPort: 8000
